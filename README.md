@@ -1,6 +1,8 @@
 # oauthserver
-#1 Cretae a database with MSYQL
-#2 Import oauthserver.sql located src/main/resources
+#1 Preparation
+    Download a mysql. 
+    Import oauthserver.sql located src/main/resources
+    Fill in the database info in src/main/resources/application.properties.
 #3 run oauthserver
 #4 open a RestAPI client and fill in information
 	url http://localhost:9090/oauthserver/auth/token
