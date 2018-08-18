@@ -16,6 +16,7 @@
 	   scope: admin
 
 #other resources:
+    https://www.baeldung.com/spring-security-oauth-jwt
      https://github.com/Baeldung/spring-security-oauth 
 #Notice: Using buildship to build gradle project
     You can download buildship from eclipse Marketplate.
