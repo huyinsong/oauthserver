@@ -7,7 +7,7 @@
 ## 4 open a RestAPI client and fill in information
 	url http://localhost:9090/oauthserver/oauth/token
 	Method: post
-	header: username: ame password: amesecret
+	header: username: testclient password: testclient
 	request body type : form
 	request body: 
 	   username: admin
